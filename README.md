@@ -42,7 +42,6 @@ This simulation displays:
 | `2` | Snowfall mode |
 | `3` | Toggle rain on/off |
 | `4` | Foggy mode |
-| `Spacebar` | Change scene |
 
 ### 🖱 Mouse
 - **Left Click:** Move SR Plus bus left  
